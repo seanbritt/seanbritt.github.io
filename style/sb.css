@@ -1,3 +1,13 @@
 body {
     background-color: aqua;
 }
+
+.img_box {
+    padding: 100px;
+    size: 100px;
+}
+
+.images {
+    background-color: red;
+    max-width: 100px;
+}
